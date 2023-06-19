@@ -6,7 +6,7 @@ I'm Bhagavathkumar, I am passionate and motivated fresher actively seeking oppor
 
 
 
-
+# Cool stats
 
 ![Bhagavath15’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhagavath15&theme=synthwave&show_icons=true&count_private=true “Bhagavath15’ GutHub Stats”)
 
